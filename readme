@@ -1,0 +1,5 @@
+## A simple messenger application using flask_socketio
+
+Run in command line `python main.py`
+Open the browser at `127.0.0.1:5000`
+
